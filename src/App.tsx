@@ -2,10 +2,9 @@ import { useEffect } from 'react'
 import './App.css'
 
 const links = [
-  'https://www.youtube.com/watch?v=abc123',
-  'https://open.spotify.com/track/xyz456',
-  'https://soundcloud.com/example-song',
-  'https://www.youtube.com/watch?v=otrovideo123'
+  'https://youtu.be/2go_dOJVwc4?si=V6oy14TsxvaE2MHp',
+  'https://youtu.be/-dFZGGhSqks?si=RcQ_RKcOvYvhmqR0',
+  'https://youtu.be/mMrdziQaETU?si=xknSV2of2ETQl7i4',
 ];
 
 function App() {
